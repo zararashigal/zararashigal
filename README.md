@@ -1,6 +1,6 @@
 # Hi 👋, I'm Ashley Orion
 
-### A passionate witch and a meanie hag!w
+### A passionate witch and a meanie hag!
 
 - 🔭 I'm currently working on **Far Far Web, a Build Manager for Far Far West**
 
