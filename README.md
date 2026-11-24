@@ -1,6 +1,6 @@
 # Hi 👋, I'm Ashley Orion
 
-### A passionate developer
+### A passionate witch and a meanie hag!w
 
 - 🔭 I'm currently working on **Far Far Web, a Build Manager for Far Far West**
 
@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Python, LUA, Ruby, JavaScript, Networking and Security**
 
-- ⚡ Fun fact **I am a crazy witch and a dumb hag. :3**
+- ⚡ Fun fact **My fav colors are pink and black :3**
 
 - 👨‍💻 All of my projects are available at **[https://github.com/zararashigal](https://github.com/zararashigal)**
 
