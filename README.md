@@ -1,6 +1,5 @@
 # Hi 👋, I'm Ashley Orion
-
-### A passionate witch and a meanie hag!
+<img width="12" height="24" alt="image" src="https://github.com/user-attachments/assets/6887630d-d986-483d-83f0-81cbfcc88bb8" /> Malkavian Bloodline, Camarilla 4 Ever~ <img width="12" height="24" alt="image" src="https://github.com/user-attachments/assets/6887630d-d986-483d-83f0-81cbfcc88bb8" />
 
 - 🔭 I'm currently working on **[Far Far Web, a WebUI for Far Far West Builds](https://github.com/zararashigal/FarFarWeb)**, which you can check in action **[here](https://ffw.ashleyy.rip/)**
 
@@ -30,3 +29,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zararashigal&show_icons=true&locale=en" alt="zararashigal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zararashigal&" alt="zararashigal" /></p>
+
+<p>Have a lovely day~ <3</p>
